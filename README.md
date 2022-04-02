@@ -1,4 +1,4 @@
-# Dashboard
+# Dashboard 👀
 This is a project in progress!
 
 Example:
